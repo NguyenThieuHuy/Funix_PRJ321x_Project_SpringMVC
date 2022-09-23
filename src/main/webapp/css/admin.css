@@ -1,0 +1,19 @@
+/* Style tab links */
+.tablink {
+  border: none;
+  width: 100%;
+  color: black;  
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+	display: none;
+}
+
+#Orders{
+	display: block;
+}
+
+.prImg{
+	height: 150px;
+}
